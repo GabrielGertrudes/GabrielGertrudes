@@ -61,9 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGertrudes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Gabriel's%20Stats" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGertrudes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2&custom_title=Languages" height="125" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGertrudes&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gabriel's%20Graph" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGertrudes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Gabriel's%20Stats" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGertrudes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Languages" height="125" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGertrudes&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gabriel's%20Graph" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
