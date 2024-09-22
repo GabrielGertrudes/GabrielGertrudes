@@ -26,6 +26,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 ###
