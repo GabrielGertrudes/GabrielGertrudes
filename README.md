@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="191" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZGExdjdib3Bwbm9jb2ZsNHoxemR0eTdqZjk0YTBxeWcxOWxzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-gertrudes-173923306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=flat" height="20" alt="linkedin logo"  />
@@ -19,6 +15,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=flat" height="20" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="191" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZGExdjdib3Bwbm9jb2ZsNHoxemR0eTdqZjk0YTBxeWcxOWxzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
 ###
 
