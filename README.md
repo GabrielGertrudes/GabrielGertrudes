@@ -1,4 +1,4 @@
-<img align="right" height="191" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZGExdjdib3Bwbm9jb2ZsNHoxemR0eTdqZjk0YTBxeWcxOWxzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+<img align="right" height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZGExdjdib3Bwbm9jb2ZsNHoxemR0eTdqZjk0YTBxeWcxOWxzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
 ###
 
@@ -61,9 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGertrudes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=Gabriel's%20Stats" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGertrudes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2&custom_title=Languages" height="125" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGertrudes&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gabriel's%20Graph" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGertrudes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Gabriel's%20Stats" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGertrudes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2&custom_title=Languages" height="125" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGertrudes&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gabriel's%20Graph" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
