@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Gabriel Gertrudes</h1>
+<h3 align="left">Gabriel Gertrudes</h3>
 
 ###
 
