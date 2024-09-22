@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Olá! 😊 Meu nome é Gabriel Gertrudes e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Estou em um processo contínuo de aprofundamento dos meus conhecimentos na área, sempre em busca de novos desafios e oportunidades de aprendizado.</p>
+<p align="left">Olá!   Meu nome é Gabriel Gertrudes e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Estou em um processo contínuo de aprofundamento dos meus conhecimentos na área, sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
 ###
 
