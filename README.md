@@ -1,9 +1,9 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img align="right" height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZGExdjdib3Bwbm9jb2ZsNHoxemR0eTdqZjk0YTBxeWcxOWxzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
 ###
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">Gabriel Gertrudes</h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
 
